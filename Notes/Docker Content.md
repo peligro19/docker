@@ -465,3 +465,5 @@ Implementing the sidecar pattern involves attaching additional containers (sidec
 
 ---
 ---
+
+#### Copyright @ 2024 Sumit Kumar
